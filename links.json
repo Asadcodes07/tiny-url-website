@@ -1,0 +1,37 @@
+[
+  {
+    "id": "31994668",
+    "code": "31994668",
+    "originalUrl": "https://youtube.com///",
+    "shortUrl": "http://localhost:3001/31994668",
+    "createdAt": "2026-10-09T16:17:28.116Z"
+  },
+  {
+    "id": "8da903e2",
+    "code": "8da903e2",
+    "originalUrl": "https://google.com/",
+    "shortUrl": "http://localhost:3001/8da903e2",
+    "createdAt": "2026-10-09T16:16:37.691Z"
+  },
+  {
+    "id": "304ec82e",
+    "code": "304ec82e",
+    "originalUrl": "https://google.com/",
+    "shortUrl": "http://localhost:3001/304ec82e",
+    "createdAt": "2026-10-09T16:16:25.383Z"
+  },
+  {
+    "id": "f4879d0f",
+    "code": "f4879d0f",
+    "originalUrl": "https://google.com",
+    "shortUrl": "http://localhost:3001/f4879d0f",
+    "createdAt": "2026-10-09T15:54:31.603Z"
+  },
+  {
+    "id": "c6aa2d6d",
+    "code": "c6aa2d6d",
+    "originalUrl": "https://example.com/qjx1d5",
+    "shortUrl": "http://localhost:3001/c6aa2d6d",
+    "createdAt": "2026-10-09T11:14:15.872Z"
+  }
+]
